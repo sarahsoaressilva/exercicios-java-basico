@@ -1,6 +1,6 @@
 # Exercícios de Java Básicos
 
-Recentemente, comecei minha caminhada em direção ao **desenvolvimento Android**. Os exercícios presentes nesse repositório são referentes à **treinos** que o meu professor da disciplina de dispositivos móveis passou para aprendermos sobre a sintaxe e lógica na linguagem Java antes de passarmos ao Android Studio. 
+Recentemente, comecei minha caminhada em direção ao **desenvolvimento Android**. Os exercícios presentes nesse repositório são referentes à **treinos** que o meu professor da disciplina de **dispositivos móveis** passou para aprendermos sobre a sintaxe e lógica na linguagem Java antes de passarmos ao Android Studio. 
 
 ## Contexto dos Exercícios:
 
