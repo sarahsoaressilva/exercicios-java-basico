@@ -9,4 +9,4 @@ Recentemente, comecei minha caminhada em direção ao **desenvolvimento Android*
  - **pgm06.java** - Informar se a entrada é negativa ou positiva.
  - **pgm07.java** - Dizer a quantidade de entradas, o menor e maior valor entre elas e a média.
  - **pgm08.java** - Indicar a quantidade e soma dos valores informados
- - **pgm09.java** - Possui a mesma função que o anterior, mas acrescenta a organização das entradas em vetores e seus a ilustração dos seus índices pertencentes.
+ - **pgm09.java** - Possui a mesma função que o anterior, mas acrescenta a organização das entradas em vetores e a ilustração dos seus índices pertencentes.
