@@ -27,33 +27,6 @@ public class App {
         System.out.println("O custo do reparo da minha bicicleta é R$" + valorReparo2);
 
 
-
-        /*
-        carro.acelera(10);
-        moto.acelera(50);
-        bicicleta.acelera(50);
-        */
-
-        /*
-        if(carro.getVelocidade() > moto.getVelocidade() ) {
-            System.out.println("O" + carro.getDescricao() + " está mais rápido que o " + moto.getDescricao() + ".");
-        } else {
-            System.out.println("A" + moto.getDescricao() + " está mais rápida que o " + carro.getDescricao() + ".");
-        }
-
-        if(moto.isPneusBons(null)) {
-            System.out.println("Os pneus da moto " + moto.getDescricao() + " estão em bom estado!.");
-        } else {
-            System.out.println("Os pneus da moto " + moto.getDescricao() + " precisam ser trocados.");
-        }
-
-        if(carro.isPortasTrancando()) {
-            System.out.println("As portas do carro " + carro.getDescricao() + " estão trancando corretamente!.");
-        } else {
-            System.out.println("As portas do carro  " + carro.getDescricao()  + "não estão trancando!.");
-        }
-        
-        */
         
     } 
 }
