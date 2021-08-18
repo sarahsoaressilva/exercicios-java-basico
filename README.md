@@ -1,6 +1,6 @@
 # Exercícios de Java Básicos
 
-Os exercícios presentes nesse repositório são referentes à **treinos** que eu realizei para aprender sobre a sintaxe e lóxiga na linguagem Java. 
+Os exercícios presentes nesse repositório são referentes à **treinos** que eu realizei para aprender sobre a sintaxe e lógica da linguagem Java. 
 
 ## Contexto dos Exercícios:
 
