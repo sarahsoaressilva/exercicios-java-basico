@@ -11,5 +11,5 @@ Os exercícios presentes nesse repositório são referentes à **treinos** que e
  - **pgm08.java** - Indicar a quantidade e soma dos valores informados
  - **pgm09.java** - Possui a mesma função que o anterior, mas acrescenta a organização das entradas em vetores e a ilustração dos seus índices pertencentes.
  
- **Pasta Workshop** - Dentro desta pasta estão Classes em Java usadas para representar uma Oficina de Carros, Motos e Bicicletas. Desenvolvidas durante um workshop de Java chamado "Descomplicando a Programação com Java" feito pela EBAC (Escola Britânica de Artes Criativas e Tecnologia) com o professor César Lawall Silveira.
+ **Pasta Workshop** - Dentro desta pasta estão Classes em Java usadas para representar uma Oficina de Carros e Motos e uma separada para Bicicletas. Desenvolvidas durante um workshop de Java chamado "Descomplicando a Programação com Java" feito pela EBAC (Escola Britânica de Artes Criativas e Tecnologia) com o professor César Lawall Silveira.
 
